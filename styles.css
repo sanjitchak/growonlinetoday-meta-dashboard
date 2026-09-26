@@ -158,6 +158,7 @@ td.name .name-link{font-weight:500}
 input[type=checkbox]:checked{background:#1877f2;border-color:#1877f2}
 .switch[aria-checked=true]{background:#dbeafe;border-color:#b7d4fb}
 .switch[aria-checked=true]:before{background:#1877f2}
+.switch:disabled{opacity:1;cursor:default}
 tfoot td{height:58px;border-top-color:#ced0d4}
 #rightbar{bottom:0;background:#1c2b33}
 .popover{border-color:#dadde1;box-shadow:0 8px 24px #00000026}
