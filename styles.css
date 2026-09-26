@@ -111,7 +111,7 @@
 /* Meta Ads Manager visual theme: neutral canvas, white work surfaces and Meta blue. */
 :root{
   color:#050505;
-  --blue:#0866ff;
+  --blue:#1877f2;
   --border:#ced0d4;
   --muted:#65676b;
   --row:#f7f8fa;
@@ -119,35 +119,35 @@
 body{background:#f0f2f5}
 button{border-color:#ced0d4;background:#fff;color:#050505}
 button:hover{background:#f0f2f5}
-button.primary{background:#0866ff;border-color:#0866ff;color:#fff}
-button.primary:hover{background:#075ce5;border-color:#075ce5}
-button.green{background:#00875a;border-color:#00875a;color:#fff}
-button.green:hover{background:#007a51;border-color:#007a51}
-.text-link,td.name .name-link{color:#216fdb}
+button.primary{background:#1877f2;border-color:#1877f2;color:#fff}
+button.primary:hover{background:#166fe5;border-color:#166fe5}
+button.green{background:#17875f;border-color:#17875f;color:#fff}
+button.green:hover{background:#147a55;border-color:#147a55}
+.text-link,td.name .name-link{color:#0a66c2}
 #sidebar{bottom:0;border-right-color:#dadde1}
-#sidebar button:hover,#sidebar button.selected{background:#e7f3ff;color:#0866ff}
+#sidebar button:hover,#sidebar button.selected{background:#e7f3ff;color:#1877f2}
 #sidebar .badge{background:#e41e3f}
 #app{height:100vh}
 #header{height:60px;background:#fff;border-bottom:1px solid #dadde1;box-shadow:0 1px 2px #0000000d}
 #account{border-color:#ced0d4;background:#fff}
-.score-ring{border-color:#0866ff;border-bottom-color:transparent}
+.score-ring{border-color:#1877f2;border-bottom-color:transparent}
 #workspace{margin:0;border:0;border-radius:0;padding:8px;background:#f0f2f5}
 #views{margin-bottom:8px}
 #views button{border-color:#ced0d4;background:#fff}
-#views button.active{color:#0866ff;border-color:#0866ff;background:#fff}
+#views button.active{color:#1877f2;border-color:#1877f2;background:#fff}
 #views .flat{background:transparent;border-color:transparent}
-#views button.primary{background:#0866ff;border-color:#0866ff;color:#fff}
-#views button.primary:hover{background:#075ce5;border-color:#075ce5}
+#views button.primary{background:#1877f2;border-color:#1877f2;color:#fff}
+#views button.primary:hover{background:#166fe5;border-color:#166fe5}
 .searchbar{border:1px solid #dadde1;background:#fff;box-shadow:0 1px 2px #00000008}
 .chip{border-color:#b7d4fb;background:#e7f3ff}
 #tabs [role=tab]{background:#e4e6eb;color:#050505;box-shadow:none}
-#tabs [role=tab][aria-selected=true]{background:#fff;color:#0866ff;box-shadow:0 -1px 3px #00000012}
+#tabs [role=tab][aria-selected=true]{background:#fff;color:#1877f2;box-shadow:0 -1px 3px #00000012}
 #date-button{background:#fff;border-color:#ced0d4}
 #table-panel{border:1px solid #dadde1;border-radius:0 6px 6px 6px;box-shadow:0 1px 2px #0000000a}
 #toolbar{background:#fff;border-bottom-color:#ced0d4}
 th{color:#050505;border-right-color:#ced0d4;border-bottom-color:#ced0d4}
 #table-scroll:focus{outline:none}
-#table-scroll:focus-visible{outline:2px solid #0866ff;outline-offset:-2px}
+#table-scroll:focus-visible{outline:2px solid #1877f2;outline-offset:-2px}
 td{border-bottom-color:#e4e6eb}
 tbody tr:nth-child(even) td{background:#f7f8fa}
 tbody tr:hover td{background:#edf4ff}
@@ -155,17 +155,21 @@ tbody tr.selected td{background:#e7f3ff}
 td .sub{color:#65676b}
 td.name .name-link{font-weight:500}
 .dot.active{background:#31a24c}
-input[type=checkbox]:checked{background:#0866ff;border-color:#0866ff}
+input[type=checkbox]:checked{background:#1877f2;border-color:#1877f2}
 .switch[aria-checked=true]{background:#dbeafe;border-color:#b7d4fb}
-.switch[aria-checked=true]:before{background:#0866ff}
+.switch[aria-checked=true]:before{background:#1877f2}
 tfoot td{height:58px;border-top-color:#ced0d4}
 #rightbar{bottom:0;background:#1c2b33}
 .popover{border-color:#dadde1;box-shadow:0 8px 24px #00000026}
 .menu-item:hover{background:#f0f2f5}
-.menu-item.selected{background:#e7f3ff;color:#0866ff}
+.menu-item.selected{background:#e7f3ff;color:#1877f2}
 dialog{color:#050505;border:1px solid #dadde1;box-shadow:0 12px 36px #00000035}
 #drawer{bottom:0;background:#f0f2f5}
 .card,.metric-card{border-color:#dadde1}
-.drawer-tabs button.active{color:#0866ff;background:#e7f3ff}
-.bar-fill{background:#0866ff}
+.drawer-tabs button.active{color:#1877f2;background:#e7f3ff}
+.bar-fill{background:#1877f2}
+/* Compact company artwork uses a square emblem so it stays legible in Meta's avatar slots. */
+.profile img,.account-avatar{object-fit:contain;background:#fff}
+.account-avatar{border:0;border-radius:4px}
+.fb-dot{background:#1877f2}
 @media(max-width:850px){#drawer{bottom:0}}
