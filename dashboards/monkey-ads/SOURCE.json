@@ -1,0 +1,56 @@
+{
+  "company": "Monkey Ads",
+  "libraryId": "1366940235292401",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "replaces": "emveto",
+  "replacementReason": "Emveto exposed only two usable source ads.",
+  "performance": "Synthetic planning data, not advertiser results",
+  "identities": "Synthetic dashboard IDs; source library IDs are public identifiers",
+  "creatives": [
+    {
+      "adId": "a:991000000000000105",
+      "libraryId": "1366940235292401",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1366940235292401",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:991000000000000106",
+      "libraryId": "1015876331158283",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1015876331158283",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:991000000000000107",
+      "libraryId": "983532764645404",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=983532764645404",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:991000000000000108",
+      "libraryId": "872855219223510",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=872855219223510",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    }
+  ],
+  "media": {
+    "assets/company-media/1015876331158283-poster.jpg": "a625d2ac744c0d74bf83bbb1569b0e4b8c1af2171073842ccce1ecdee8ab9178",
+    "assets/company-media/0-pageAvatar.jpg": "8f8f515fa2d091b0af716826485187d70a6f7840b3580cbc271f1aafa6e02524",
+    "assets/company-media/872855219223510-pageAvatar.jpg": "8f8f515fa2d091b0af716826485187d70a6f7840b3580cbc271f1aafa6e02524",
+    "assets/company-media/1015876331158283-pageAvatar.jpg": "8f8f515fa2d091b0af716826485187d70a6f7840b3580cbc271f1aafa6e02524",
+    "assets/company-media/983532764645404-pageAvatar.jpg": "8f8f515fa2d091b0af716826485187d70a6f7840b3580cbc271f1aafa6e02524",
+    "assets/company-media/872855219223510-video.mp4": "42b1088efaa6ea51a5c536b938563732b7c060b53c918a66c5db2268b956e51f",
+    "assets/company-media/0-video.mp4": "d013b97c46b029b24165383378f35cd232e2f499bf3f73d592f7278c6c04a4be",
+    "assets/company-media/872855219223510-poster.jpg": "3ab5de90d3e577ddb91ee89e8b2e923bfedb68df0ae557698753dfd0ae31898f",
+    "assets/company-media/1015876331158283-video.mp4": "f80b9153c76f1bba4f97e44345acdb90a969e1b0daf925f715acb50707f560b9",
+    "assets/company-media/accountImage.jpg": "8f8f515fa2d091b0af716826485187d70a6f7840b3580cbc271f1aafa6e02524",
+    "assets/company-media/983532764645404-video.mp4": "c8515cb1a8a30bbdef5c589332334b6f89f938c25579be6b9b1109c43d5ad2cb",
+    "assets/company-media/983532764645404-poster.jpg": "5f5d05d32a1f954403df5504ba34107fe72fe39455571f6047e7edc85b4da295",
+    "assets/company-media/profileImage.jpg": "8f8f515fa2d091b0af716826485187d70a6f7840b3580cbc271f1aafa6e02524",
+    "assets/company-media/0-image.jpg": "5c6490ed1ed5815d61bdfa5c92ab85a3649f2597d44b74b9426cbced915a48e7"
+  }
+}

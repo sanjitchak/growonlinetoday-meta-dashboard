@@ -16,7 +16,34 @@
   "media": {
     "assets/company-media/0-pageAvatar.jpg": "42adb879778b1f6a68e63d4eea1207946dbc9e376dc3deebb2dee083c7d60e75",
     "assets/company-media/accountImage.jpg": "42adb879778b1f6a68e63d4eea1207946dbc9e376dc3deebb2dee083c7d60e75",
+    "assets/company-media/2319027182248703-image.jpg": "73096789e19b501894bac7d37fb13bb563f4006528904bc086a5ad4f9d18165e",
+    "assets/company-media/1737917360652089-pageAvatar.jpg": "42adb879778b1f6a68e63d4eea1207946dbc9e376dc3deebb2dee083c7d60e75",
+    "assets/company-media/2319027182248703-pageAvatar.jpg": "42adb879778b1f6a68e63d4eea1207946dbc9e376dc3deebb2dee083c7d60e75",
+    "assets/company-media/1737917360652089-image.jpg": "73096789e19b501894bac7d37fb13bb563f4006528904bc086a5ad4f9d18165e",
     "assets/company-media/profileImage.jpg": "42adb879778b1f6a68e63d4eea1207946dbc9e376dc3deebb2dee083c7d60e75",
     "assets/company-media/0-image.jpg": "f465beea928a07d8cd7e5230f8aa94261eea8d107f1c8e69fd02e46b1fdfc01f"
-  }
+  },
+  "creatives": [
+    {
+      "adId": "a:990000000000001205",
+      "libraryId": "1028359349742381",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1028359349742381",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library content; claims are advertiser copy, not independently verified."
+    },
+    {
+      "adId": "a:990000000000001206",
+      "libraryId": "1737917360652089",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1737917360652089",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:990000000000001207",
+      "libraryId": "2319027182248703",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=2319027182248703",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    }
+  ]
 }

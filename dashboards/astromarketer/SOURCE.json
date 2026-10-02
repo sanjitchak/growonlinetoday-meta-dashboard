@@ -15,8 +15,35 @@
   "destinationSource": "User-supplied CSV; not a newly built landing page",
   "media": {
     "assets/company-media/0-pageAvatar.jpg": "5f65454cb572086084fb07b707c4aa6f188e3ade5776b5baaeb774e3db89e215",
+    "assets/company-media/1640897464046083-image.jpg": "e2b33b0a6a025b00d5ed56731ca29399083d6390d151302450fa4075f0e5f243",
     "assets/company-media/accountImage.jpg": "5f65454cb572086084fb07b707c4aa6f188e3ade5776b5baaeb774e3db89e215",
+    "assets/company-media/2103445037228484-image.jpg": "786c6bf3347bb4d4f2b895ee73aa0babc1f1eaef6451a2da94099641ee4424fc",
+    "assets/company-media/2103445037228484-pageAvatar.jpg": "5f65454cb572086084fb07b707c4aa6f188e3ade5776b5baaeb774e3db89e215",
     "assets/company-media/profileImage.jpg": "5f65454cb572086084fb07b707c4aa6f188e3ade5776b5baaeb774e3db89e215",
-    "assets/company-media/0-image.jpg": "422466737c9584827186677ac2e3dde406ce200d86dcedd34a41dcdabbc408ea"
-  }
+    "assets/company-media/0-image.jpg": "422466737c9584827186677ac2e3dde406ce200d86dcedd34a41dcdabbc408ea",
+    "assets/company-media/1640897464046083-pageAvatar.jpg": "5f65454cb572086084fb07b707c4aa6f188e3ade5776b5baaeb774e3db89e215"
+  },
+  "creatives": [
+    {
+      "adId": "a:990000000000000705",
+      "libraryId": "1104552768682956",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1104552768682956",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library content; claims are advertiser copy, not independently verified."
+    },
+    {
+      "adId": "a:990000000000000706",
+      "libraryId": "1640897464046083",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1640897464046083",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:990000000000000707",
+      "libraryId": "2103445037228484",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=2103445037228484",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    }
+  ]
 }

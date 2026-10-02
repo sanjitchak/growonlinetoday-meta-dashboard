@@ -14,10 +14,49 @@
   "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
   "destinationSource": "User-supplied CSV; not a newly built landing page",
   "media": {
+    "assets/company-media/968635922249364-poster.jpg": "2fb43a64285073e9a6e00c5c139bdf7b288c87e4593ccc4d5bf1e186c18cc816",
     "assets/company-media/0-pageAvatar.jpg": "0fe0f6145c1452b653b282bc76fb583514977ac71b19ada332081486cff0ea24",
+    "assets/company-media/2888860244809325-video.mp4": "adcc425ab7d8876c22637f6c38a9f1123d59b1ffc4b10130758ae9cbe9c1236b",
     "assets/company-media/0-video.mp4": "2f61d0935fddd9da1cf3192fc881c35fb21d68d32dca24fde2313d279853fbe5",
     "assets/company-media/accountImage.jpg": "0fe0f6145c1452b653b282bc76fb583514977ac71b19ada332081486cff0ea24",
+    "assets/company-media/968635922249364-video.mp4": "3d037eed25fccfa3da142307b2c8e431d8c34cc8087b353b26a253c3f5aebb11",
+    "assets/company-media/968635922249364-pageAvatar.jpg": "0fe0f6145c1452b653b282bc76fb583514977ac71b19ada332081486cff0ea24",
+    "assets/company-media/1130815532844363-video.mp4": "adcc425ab7d8876c22637f6c38a9f1123d59b1ffc4b10130758ae9cbe9c1236b",
+    "assets/company-media/2888860244809325-poster.jpg": "d106c394e0043c90bedc0bcb94212dead217901e037b4c0336ecefc6d71ef225",
+    "assets/company-media/1130815532844363-poster.jpg": "d106c394e0043c90bedc0bcb94212dead217901e037b4c0336ecefc6d71ef225",
     "assets/company-media/profileImage.jpg": "0fe0f6145c1452b653b282bc76fb583514977ac71b19ada332081486cff0ea24",
-    "assets/company-media/0-image.jpg": "c77bd4f7c42554948e10553913ef8577eb9c3b1a44dee70986f05a0cae601bc6"
-  }
+    "assets/company-media/2888860244809325-pageAvatar.jpg": "0fe0f6145c1452b653b282bc76fb583514977ac71b19ada332081486cff0ea24",
+    "assets/company-media/0-image.jpg": "c77bd4f7c42554948e10553913ef8577eb9c3b1a44dee70986f05a0cae601bc6",
+    "assets/company-media/1130815532844363-pageAvatar.jpg": "0fe0f6145c1452b653b282bc76fb583514977ac71b19ada332081486cff0ea24"
+  },
+  "creatives": [
+    {
+      "adId": "a:990000000000000805",
+      "libraryId": "1490153192985183",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1490153192985183",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library content; claims are advertiser copy, not independently verified."
+    },
+    {
+      "adId": "a:990000000000000806",
+      "libraryId": "1130815532844363",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1130815532844363",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:990000000000000807",
+      "libraryId": "968635922249364",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=968635922249364",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:990000000000000808",
+      "libraryId": "2888860244809325",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=2888860244809325",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    }
+  ]
 }

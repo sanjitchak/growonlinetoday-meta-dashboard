@@ -1,0 +1,56 @@
+{
+  "company": "The Powerful Ads",
+  "libraryId": "1438062034811788",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "replaces": "fruture-studio",
+  "replacementReason": "Fruture Studio had no accessible source creatives.",
+  "performance": "Synthetic planning data, not advertiser results",
+  "identities": "Synthetic dashboard IDs; source library IDs are public identifiers",
+  "creatives": [
+    {
+      "adId": "a:991000000000000305",
+      "libraryId": "1438062034811788",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1438062034811788",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:991000000000000306",
+      "libraryId": "1434693555188546",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1434693555188546",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:991000000000000307",
+      "libraryId": "1781800053011869",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1781800053011869",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:991000000000000308",
+      "libraryId": "2292981607905437",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=2292981607905437",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    }
+  ],
+  "media": {
+    "assets/company-media/2292981607905437-video.mp4": "fea5590692f30ee56eb0a294b171969b4f885ce9dd86acc94fba2b4937c02b00",
+    "assets/company-media/0-pageAvatar.jpg": "258355425ffcb4f2049ffed75b709cde05dcad9899c7d6de659fd97e3af794da",
+    "assets/company-media/2292981607905437-pageAvatar.jpg": "258355425ffcb4f2049ffed75b709cde05dcad9899c7d6de659fd97e3af794da",
+    "assets/company-media/0-video.mp4": "67006c1184f29d4066d201ec1b615723729929c7cf34885bc08c3b15b301fce7",
+    "assets/company-media/1781800053011869-video.mp4": "fea5590692f30ee56eb0a294b171969b4f885ce9dd86acc94fba2b4937c02b00",
+    "assets/company-media/accountImage.jpg": "258355425ffcb4f2049ffed75b709cde05dcad9899c7d6de659fd97e3af794da",
+    "assets/company-media/1781800053011869-pageAvatar.jpg": "258355425ffcb4f2049ffed75b709cde05dcad9899c7d6de659fd97e3af794da",
+    "assets/company-media/1434693555188546-video.mp4": "cdbcd88aaf85115b6a5e68bb586697ed804d8dc5ce7b283636d584b60ee1e983",
+    "assets/company-media/2292981607905437-poster.jpg": "b628a9d4f00e2b18ea13d0bebf1df3db385e7c00568c2a0cb424056444617878",
+    "assets/company-media/profileImage.jpg": "258355425ffcb4f2049ffed75b709cde05dcad9899c7d6de659fd97e3af794da",
+    "assets/company-media/1434693555188546-pageAvatar.jpg": "258355425ffcb4f2049ffed75b709cde05dcad9899c7d6de659fd97e3af794da",
+    "assets/company-media/1781800053011869-poster.jpg": "b628a9d4f00e2b18ea13d0bebf1df3db385e7c00568c2a0cb424056444617878",
+    "assets/company-media/0-image.jpg": "13a02afc8ef5241d61c4d7cc22c099b27ccb3709c8562231a16984c65e758ed5",
+    "assets/company-media/1434693555188546-poster.jpg": "49092aeba6035d13922e410824e5bce12e0d2e5915fd4ecfdb56bb5f9c4693eb"
+  }
+}

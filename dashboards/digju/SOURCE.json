@@ -1,0 +1,46 @@
+{
+  "company": "Digju",
+  "libraryId": "1548320363293769",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "replaces": "viraltmedia",
+  "replacementReason": "ViralTMedia exposed only one usable source ad.",
+  "performance": "Synthetic planning data, not advertiser results",
+  "identities": "Synthetic dashboard IDs; source library IDs are public identifiers",
+  "creatives": [
+    {
+      "adId": "a:991000000000000205",
+      "libraryId": "1548320363293769",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1548320363293769",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:991000000000000206",
+      "libraryId": "1332939805365449",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1332939805365449",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:991000000000000207",
+      "libraryId": "979811578329872",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=979811578329872",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    }
+  ],
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "4e17b639d804db137306354dd8c87b9f3637ef0c6b6ec53380023201afa63784",
+    "assets/company-media/0-video.mp4": "d0078853175f782399edf2c1b9f85869622fdc78edef76a890835fb5055f248d",
+    "assets/company-media/1332939805365449-poster.jpg": "25887b19c89bee40d9fcb646f22bb4c004f2ee73c7e5392e4c71c328d3c67b91",
+    "assets/company-media/accountImage.jpg": "4e17b639d804db137306354dd8c87b9f3637ef0c6b6ec53380023201afa63784",
+    "assets/company-media/1332939805365449-pageAvatar.jpg": "4e17b639d804db137306354dd8c87b9f3637ef0c6b6ec53380023201afa63784",
+    "assets/company-media/1332939805365449-video.mp4": "5e272cac221356fd41b2b0ca8bf8d6df718ab4568a10e51c8f7673e04550b313",
+    "assets/company-media/profileImage.jpg": "4e17b639d804db137306354dd8c87b9f3637ef0c6b6ec53380023201afa63784",
+    "assets/company-media/979811578329872-video.mp4": "d0078853175f782399edf2c1b9f85869622fdc78edef76a890835fb5055f248d",
+    "assets/company-media/0-image.jpg": "9a39538fe002d791f466a5f0722bd40a67fcc30da35cdf3ca33330f5b797e478",
+    "assets/company-media/979811578329872-pageAvatar.jpg": "4e17b639d804db137306354dd8c87b9f3637ef0c6b6ec53380023201afa63784",
+    "assets/company-media/979811578329872-poster.jpg": "9a39538fe002d791f466a5f0722bd40a67fcc30da35cdf3ca33330f5b797e478"
+  }
+}

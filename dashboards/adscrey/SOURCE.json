@@ -14,9 +14,46 @@
   "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
   "destinationSource": "User-supplied CSV; not a newly built landing page",
   "media": {
+    "assets/company-media/2328425107900168-image.jpg": "442b5e0eacfe5c3e3140ba8d0c9b79125013af6a5f97f9a11469aeb74b37e39c",
     "assets/company-media/0-pageAvatar.jpg": "5ed875026f955435494603fb71fbca2fec6c190021d7260219b954b00239e47d",
+    "assets/company-media/971825815442737-pageAvatar.jpg": "5ed875026f955435494603fb71fbca2fec6c190021d7260219b954b00239e47d",
     "assets/company-media/accountImage.jpg": "5ed875026f955435494603fb71fbca2fec6c190021d7260219b954b00239e47d",
+    "assets/company-media/971825815442737-image.jpg": "2b08ea193a233bcc6c4291dc63fddebec02037196969febe480f6a2567bafc4d",
     "assets/company-media/profileImage.jpg": "5ed875026f955435494603fb71fbca2fec6c190021d7260219b954b00239e47d",
-    "assets/company-media/0-image.jpg": "1a099072c3a83e19599734975e3c1ddc0017cbd269fe37b4489d82de4de060cc"
-  }
+    "assets/company-media/1843766207009471-poster.jpg": "1bb35667a6fdc8d8758d130eeffbbe3a441e93f1a7727298b481a7b0cb919ec7",
+    "assets/company-media/0-image.jpg": "1a099072c3a83e19599734975e3c1ddc0017cbd269fe37b4489d82de4de060cc",
+    "assets/company-media/1843766207009471-pageAvatar.jpg": "5ed875026f955435494603fb71fbca2fec6c190021d7260219b954b00239e47d",
+    "assets/company-media/2328425107900168-pageAvatar.jpg": "5ed875026f955435494603fb71fbca2fec6c190021d7260219b954b00239e47d",
+    "assets/company-media/1843766207009471-video.mp4": "5d1e731022bc07cce0d45dff84a56ff4a6662341a87bc653c08996394372b0d0"
+  },
+  "creatives": [
+    {
+      "adId": "a:990000000000000105",
+      "libraryId": "1390396802573623",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1390396802573623",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library content; claims are advertiser copy, not independently verified."
+    },
+    {
+      "adId": "a:990000000000000106",
+      "libraryId": "2328425107900168",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=2328425107900168",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:990000000000000107",
+      "libraryId": "1843766207009471",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=1843766207009471",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    },
+    {
+      "adId": "a:990000000000000108",
+      "libraryId": "971825815442737",
+      "previewUrl": "https://www.facebook.com/ads/library/?id=971825815442737",
+      "sourceObservedDate": "2026-10-02",
+      "sourceNote": "Public Ads Library media and exact visible copy; advertiser claims are not independently verified."
+    }
+  ]
 }
