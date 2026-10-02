@@ -1,0 +1,23 @@
+{
+  "agency_or_saas": "Tranquil CRM",
+  "category": "Subscription SaaS",
+  "keyword": "CRM software book demo",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1970773260274853",
+  "landing_page_url": "https://www.tranquilcrm.com/real-estate-crm-software/for-real-estate-developers",
+  "funnel_type": "Schedule-a-demo CTA",
+  "company": "Tranquil CRM",
+  "libraryId": "1970773260274853",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "8617f45071b31e8173c345dc12a1808778cd23e0456f3a4327187ba3923284b7",
+    "assets/company-media/0-video.mp4": "4ae8e4f0104e11f4c324c305ec979e1806f449cf54e667fdbf248d311e031dd8",
+    "assets/company-media/accountImage.jpg": "8617f45071b31e8173c345dc12a1808778cd23e0456f3a4327187ba3923284b7",
+    "assets/company-media/profileImage.jpg": "8617f45071b31e8173c345dc12a1808778cd23e0456f3a4327187ba3923284b7",
+    "assets/company-media/0-image.jpg": "2e10c0089d7d3daf1fce9aad0c68c1b950e3691e3ee42ad7f0221c7547ce12f4"
+  }
+}

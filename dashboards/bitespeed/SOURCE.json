@@ -1,0 +1,22 @@
+{
+  "agency_or_saas": "BiteSpeed",
+  "category": "Subscription SaaS",
+  "keyword": "WhatsApp CRM book demo",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1982470969103742",
+  "landing_page_url": "https://www.bitespeed.co/ad/rh/request-demo-key8",
+  "funnel_type": "Personalized-demo request form",
+  "company": "BiteSpeed",
+  "libraryId": "1982470969103742",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "59545446e0ddd708dec2dad102017782c9074616bfd4d08a8b09ac1793459926",
+    "assets/company-media/accountImage.jpg": "59545446e0ddd708dec2dad102017782c9074616bfd4d08a8b09ac1793459926",
+    "assets/company-media/profileImage.jpg": "59545446e0ddd708dec2dad102017782c9074616bfd4d08a8b09ac1793459926",
+    "assets/company-media/0-image.jpg": "e8f249306d54d3ad804dc03420c598f06b3e5c7f8cbf111555a1a0bfdfc510b4"
+  }
+}

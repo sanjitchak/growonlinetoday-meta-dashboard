@@ -1,0 +1,22 @@
+{
+  "agency_or_saas": "Black Cherie",
+  "category": "Branding and visual identity studio",
+  "keyword": "branding agency discovery call",
+  "ad_link": "https://www.facebook.com/ads/library/?id=2329227914572182",
+  "landing_page_url": "https://lp.blackcherie.com/design-2",
+  "funnel_type": "Brand discovery-call funnel",
+  "company": "Black Cherie",
+  "libraryId": "2329227914572182",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "26b0603319cf8489b6508e1693fc7f4b912f6d641efced178d349987cf4ababc",
+    "assets/company-media/accountImage.jpg": "26b0603319cf8489b6508e1693fc7f4b912f6d641efced178d349987cf4ababc",
+    "assets/company-media/profileImage.jpg": "26b0603319cf8489b6508e1693fc7f4b912f6d641efced178d349987cf4ababc",
+    "assets/company-media/0-image.jpg": "f40a67e0e0f0e1942241cf5d882f2a1c9995537dfedd067ef069846fb5b03a64"
+  }
+}

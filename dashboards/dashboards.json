@@ -1,0 +1,142 @@
+[
+  {
+    "company": "Adscrey",
+    "slug": "adscrey",
+    "category": "Performance creative and ad design",
+    "sourceAvailable": true,
+    "libraryId": "1390396802573623"
+  },
+  {
+    "company": "Grow Digitally",
+    "slug": "grow-digitally",
+    "category": "Performance creative and ad design",
+    "sourceAvailable": true,
+    "libraryId": "1318891453583560"
+  },
+  {
+    "company": "Emveto",
+    "slug": "emveto",
+    "category": "Performance creative and ad design",
+    "sourceAvailable": true,
+    "libraryId": "1632709645192180"
+  },
+  {
+    "company": "Soda Pop Social",
+    "slug": "soda-pop-social",
+    "category": "Social media agency",
+    "sourceAvailable": true,
+    "libraryId": "1001581796156119"
+  },
+  {
+    "company": "EcomX",
+    "slug": "ecomx",
+    "category": "Performance creative and ad design",
+    "sourceAvailable": true,
+    "libraryId": "1598776518653725"
+  },
+  {
+    "company": "The Super 30",
+    "slug": "the-super-30",
+    "category": "SEO and digital marketing agency",
+    "sourceAvailable": true,
+    "libraryId": "1816182603046038"
+  },
+  {
+    "company": "AstroMarketer",
+    "slug": "astromarketer",
+    "category": "Social media agency",
+    "sourceAvailable": true,
+    "libraryId": "1104552768682956"
+  },
+  {
+    "company": "Marketing Mohan / ClientsFlow",
+    "slug": "clientsflow",
+    "category": "Outbound and client acquisition agency",
+    "sourceAvailable": true,
+    "libraryId": "1490153192985183"
+  },
+  {
+    "company": "Social Sameer / ViralTMedia",
+    "slug": "viraltmedia",
+    "category": "Outbound and client acquisition agency",
+    "sourceAvailable": true,
+    "libraryId": "2211075633154685"
+  },
+  {
+    "company": "Black Cherie",
+    "slug": "black-cherie",
+    "category": "Branding and visual identity studio",
+    "sourceAvailable": true,
+    "libraryId": "2329227914572182"
+  },
+  {
+    "company": "Fruture Studio",
+    "slug": "fruture-studio",
+    "category": "Branding and visual identity studio",
+    "sourceAvailable": false,
+    "libraryId": "1378266727812940"
+  },
+  {
+    "company": "Rolling Authors",
+    "slug": "rolling-authors",
+    "category": "Content and ghostwriting agency",
+    "sourceAvailable": true,
+    "libraryId": "1028359349742381"
+  },
+  {
+    "company": "The Weblish",
+    "slug": "the-weblish",
+    "category": "Web development agency",
+    "sourceAvailable": true,
+    "libraryId": "1358931139374955"
+  },
+  {
+    "company": "Jhango",
+    "slug": "jhango",
+    "category": "Web development agency",
+    "sourceAvailable": true,
+    "libraryId": "1341768594737577"
+  },
+  {
+    "company": "Tranquil CRM",
+    "slug": "tranquil-crm",
+    "category": "Subscription SaaS",
+    "sourceAvailable": true,
+    "libraryId": "1970773260274853"
+  },
+  {
+    "company": "Exly",
+    "slug": "exly",
+    "category": "Subscription SaaS",
+    "sourceAvailable": true,
+    "libraryId": "973799332125043"
+  },
+  {
+    "company": "Grexa AI",
+    "slug": "grexa-ai",
+    "category": "Subscription SaaS",
+    "sourceAvailable": true,
+    "libraryId": "1692814925282836"
+  },
+  {
+    "company": "BiteSpeed",
+    "slug": "bitespeed",
+    "category": "Subscription SaaS",
+    "sourceAvailable": true,
+    "libraryId": "1982470969103742"
+  },
+  {
+    "company": "EasyInsights.ai",
+    "slug": "easyinsights",
+    "category": "Subscription SaaS",
+    "sourceAvailable": true,
+    "libraryId": "1033938109396677"
+  },
+  {
+    "company": "Salestrail",
+    "slug": "salestrail",
+    "category": "Subscription SaaS",
+    "sourceAvailable": true,
+    "libraryId": "1415581327174515"
+  }
+]

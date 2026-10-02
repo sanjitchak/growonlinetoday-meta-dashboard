@@ -1,0 +1,22 @@
+{
+  "agency_or_saas": "EasyInsights.ai",
+  "category": "Subscription SaaS",
+  "keyword": "WhatsApp CRM book demo",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1033938109396677",
+  "landing_page_url": "https://easyinsights.ai/book-demo",
+  "funnel_type": "Demo request form",
+  "company": "EasyInsights.ai",
+  "libraryId": "1033938109396677",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "First card of the six-card source carousel; full source copy retained.",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "967441c4a93004469a7707dd88a779ec0a6d9d1905fa69505f4ec84050e36448",
+    "assets/company-media/accountImage.jpg": "967441c4a93004469a7707dd88a779ec0a6d9d1905fa69505f4ec84050e36448",
+    "assets/company-media/profileImage.jpg": "967441c4a93004469a7707dd88a779ec0a6d9d1905fa69505f4ec84050e36448",
+    "assets/company-media/0-image.jpg": "8e2a1a3461be3fa03943b13b1ebdb064b1090570b73fa24e9271bfa3e30488a0"
+  }
+}

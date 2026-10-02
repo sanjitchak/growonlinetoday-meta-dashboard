@@ -1,0 +1,23 @@
+{
+  "agency_or_saas": "Exly",
+  "category": "Subscription SaaS",
+  "keyword": "marketing automation book demo",
+  "ad_link": "https://www.facebook.com/ads/library/?id=973799332125043",
+  "landing_page_url": "https://exlyapp.com/scheduledemo/d/cx7r-jgf-vpn",
+  "funnel_type": "Demo scheduling page",
+  "company": "Exly",
+  "libraryId": "973799332125043",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "69e23217a61574408978d099b00ee49fd606bc7d726395e1301adece7ab87752",
+    "assets/company-media/0-video.mp4": "1c8ac0067453162f41a215008d85aab5f0480038e89500fb677b73a1fb2c2eab",
+    "assets/company-media/accountImage.jpg": "69e23217a61574408978d099b00ee49fd606bc7d726395e1301adece7ab87752",
+    "assets/company-media/profileImage.jpg": "69e23217a61574408978d099b00ee49fd606bc7d726395e1301adece7ab87752",
+    "assets/company-media/0-image.jpg": "1cf970821663d2a52f07a995e52981421540b2734489764a5c9186cb52b29998"
+  }
+}

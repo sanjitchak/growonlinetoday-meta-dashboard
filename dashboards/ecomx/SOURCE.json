@@ -1,0 +1,23 @@
+{
+  "agency_or_saas": "EcomX",
+  "category": "Performance creative and ad design",
+  "keyword": "marketing agency free strategy call",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1598776518653725",
+  "landing_page_url": "https://ecomx.in/",
+  "funnel_type": "Agency application form",
+  "company": "EcomX",
+  "libraryId": "1598776518653725",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "7150f035ce233ba6783dfecd5be297143ad13450c356f4e59a92935c49531b95",
+    "assets/company-media/0-video.mp4": "0bfd520180a9ed222e81148583b5545c96b92d0723e071ff931084ea1e34910b",
+    "assets/company-media/accountImage.jpg": "7150f035ce233ba6783dfecd5be297143ad13450c356f4e59a92935c49531b95",
+    "assets/company-media/profileImage.jpg": "7150f035ce233ba6783dfecd5be297143ad13450c356f4e59a92935c49531b95",
+    "assets/company-media/0-image.jpg": "1b214b1eaaa066f38d6fd0ad62e2f7b2d313123d48205b473e83826c93c534f4"
+  }
+}

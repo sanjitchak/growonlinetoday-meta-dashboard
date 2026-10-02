@@ -1,0 +1,23 @@
+{
+  "agency_or_saas": "Social Sameer / ViralTMedia",
+  "category": "Outbound and client acquisition agency",
+  "keyword": "appointment setting agency book call",
+  "ad_link": "https://www.facebook.com/ads/library/?id=2211075633154685",
+  "landing_page_url": "https://funnels.viraltmedia.in/7figurecoach",
+  "funnel_type": "VSL and paid strategy-call funnel",
+  "company": "Social Sameer / ViralTMedia",
+  "libraryId": "2211075633154685",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "5917acf2343a01d844f22289d75812d9f69c5aa7f6b3379b251568a57d16605f",
+    "assets/company-media/0-video.mp4": "a9c8e1acc2d4d599b2200e6b57b09ac4eb12c2357b5285b09f1e40de5dca8f80",
+    "assets/company-media/accountImage.jpg": "5917acf2343a01d844f22289d75812d9f69c5aa7f6b3379b251568a57d16605f",
+    "assets/company-media/profileImage.jpg": "5917acf2343a01d844f22289d75812d9f69c5aa7f6b3379b251568a57d16605f",
+    "assets/company-media/0-image.jpg": "954944959f3d145225329d9a370ec67561daa92fce592b0d262b89b7c1183a5a"
+  }
+}

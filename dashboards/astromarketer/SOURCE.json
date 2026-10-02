@@ -1,0 +1,22 @@
+{
+  "agency_or_saas": "AstroMarketer",
+  "category": "Social media agency",
+  "keyword": "branding agency consultation",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1104552768682956",
+  "landing_page_url": "https://service.astromarketer.in/morya",
+  "funnel_type": "Strategy-call application",
+  "company": "AstroMarketer",
+  "libraryId": "1104552768682956",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "5f65454cb572086084fb07b707c4aa6f188e3ade5776b5baaeb774e3db89e215",
+    "assets/company-media/accountImage.jpg": "5f65454cb572086084fb07b707c4aa6f188e3ade5776b5baaeb774e3db89e215",
+    "assets/company-media/profileImage.jpg": "5f65454cb572086084fb07b707c4aa6f188e3ade5776b5baaeb774e3db89e215",
+    "assets/company-media/0-image.jpg": "422466737c9584827186677ac2e3dde406ce200d86dcedd34a41dcdabbc408ea"
+  }
+}

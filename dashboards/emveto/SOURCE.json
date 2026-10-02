@@ -1,0 +1,23 @@
+{
+  "agency_or_saas": "Emveto",
+  "category": "Performance creative and ad design",
+  "keyword": "marketing agency free strategy call",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1632709645192180",
+  "landing_page_url": "https://share.synamate.com/widget/bookings/performance-marketing-emveto-1",
+  "funnel_type": "Direct booking calendar",
+  "company": "Emveto",
+  "libraryId": "1632709645192180",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "79291e5defeeb02e27e9ec3b71629b190ddecc85a9f4f7db94c1472e8f9fb798",
+    "assets/company-media/0-video.mp4": "5aa5f43ac336bddd256ebd2eeb0a47ad0fbf609657ca2aa1771b1c265ee95729",
+    "assets/company-media/accountImage.jpg": "79291e5defeeb02e27e9ec3b71629b190ddecc85a9f4f7db94c1472e8f9fb798",
+    "assets/company-media/profileImage.jpg": "79291e5defeeb02e27e9ec3b71629b190ddecc85a9f4f7db94c1472e8f9fb798",
+    "assets/company-media/0-image.jpg": "52c985369e87754f8caf5597268005f1013bae4cc547310bd77deed68e0c1349"
+  }
+}

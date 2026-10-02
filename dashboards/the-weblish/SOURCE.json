@@ -1,0 +1,22 @@
+{
+  "agency_or_saas": "The Weblish",
+  "category": "Web development agency",
+  "keyword": "branding agency consultation",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1358931139374955",
+  "landing_page_url": "https://theweblish.in/website-development",
+  "funnel_type": "Website-project quote form",
+  "company": "The Weblish",
+  "libraryId": "1358931139374955",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "3b89e775b724f5f260e858b40fe1730061aedb85fe68ff0c1fa5b6eebacace35",
+    "assets/company-media/accountImage.jpg": "3b89e775b724f5f260e858b40fe1730061aedb85fe68ff0c1fa5b6eebacace35",
+    "assets/company-media/profileImage.jpg": "3b89e775b724f5f260e858b40fe1730061aedb85fe68ff0c1fa5b6eebacace35",
+    "assets/company-media/0-image.jpg": "f5e86495b076c33068a0789f00902973e9803ce01a734c5270e7f3cc35be2f83"
+  }
+}

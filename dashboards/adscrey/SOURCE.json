@@ -1,0 +1,22 @@
+{
+  "agency_or_saas": "Adscrey",
+  "category": "Performance creative and ad design",
+  "keyword": "seo agency free consultation",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1390396802573623",
+  "landing_page_url": "https://adscrey.com/pages/contact-1",
+  "funnel_type": "Consultation form and call CTA",
+  "company": "Adscrey",
+  "libraryId": "1390396802573623",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "5ed875026f955435494603fb71fbca2fec6c190021d7260219b954b00239e47d",
+    "assets/company-media/accountImage.jpg": "5ed875026f955435494603fb71fbca2fec6c190021d7260219b954b00239e47d",
+    "assets/company-media/profileImage.jpg": "5ed875026f955435494603fb71fbca2fec6c190021d7260219b954b00239e47d",
+    "assets/company-media/0-image.jpg": "1a099072c3a83e19599734975e3c1ddc0017cbd269fe37b4489d82de4de060cc"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "agency_or_saas": "Salestrail",
+  "category": "Subscription SaaS",
+  "keyword": "WhatsApp CRM book demo",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1415581327174515",
+  "landing_page_url": "https://www.salestrail.io/book-demo",
+  "funnel_type": "Embedded meeting calendar",
+  "company": "Salestrail",
+  "libraryId": "1415581327174515",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "c929b39e9624d22c68f54f8f44ac9cc12a3ae5ff3eb93507446a355f3f3e2bf1",
+    "assets/company-media/accountImage.jpg": "c929b39e9624d22c68f54f8f44ac9cc12a3ae5ff3eb93507446a355f3f3e2bf1",
+    "assets/company-media/profileImage.jpg": "c929b39e9624d22c68f54f8f44ac9cc12a3ae5ff3eb93507446a355f3f3e2bf1",
+    "assets/company-media/0-image.jpg": "730a28ac582e9748127402b59189d9d9316d91a1f38cc2a6527fab354ddd2832"
+  }
+}

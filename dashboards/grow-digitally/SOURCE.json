@@ -1,0 +1,22 @@
+{
+  "agency_or_saas": "Grow Digitally",
+  "category": "Performance creative and ad design",
+  "keyword": "book a call agency",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1318891453583560",
+  "landing_page_url": "https://lp.growdigitally.net/633wrkkd",
+  "funnel_type": "VSL and strategy-call booking",
+  "company": "Grow Digitally",
+  "libraryId": "1318891453583560",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "ffde929d60005ad73dfc4ab73590d850f3a705ade574e0c2eb7fbc6df5917ad2",
+    "assets/company-media/accountImage.jpg": "ffde929d60005ad73dfc4ab73590d850f3a705ade574e0c2eb7fbc6df5917ad2",
+    "assets/company-media/profileImage.jpg": "ffde929d60005ad73dfc4ab73590d850f3a705ade574e0c2eb7fbc6df5917ad2",
+    "assets/company-media/0-image.jpg": "1f76d95c6ef7fbeb9eec48bd5dd7520e4d2564c68cdb115783f4cad02f735595"
+  }
+}

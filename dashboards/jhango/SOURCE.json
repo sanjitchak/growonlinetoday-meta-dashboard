@@ -1,0 +1,23 @@
+{
+  "agency_or_saas": "Jhango",
+  "category": "Web development agency",
+  "keyword": "website development free consultation",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1341768594737577",
+  "landing_page_url": "https://www.jhango.com/",
+  "funnel_type": "Project application and discovery-call path",
+  "company": "Jhango",
+  "libraryId": "1341768594737577",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "22713057e5a8994de01914d5d79d48f5441e96d4a18265bc9d9540107d63a23f",
+    "assets/company-media/0-video.mp4": "ca2563818845ceea5cc805a3f52125b46db58e87832df45d1b8f56ee35ad32b5",
+    "assets/company-media/accountImage.jpg": "22713057e5a8994de01914d5d79d48f5441e96d4a18265bc9d9540107d63a23f",
+    "assets/company-media/profileImage.jpg": "22713057e5a8994de01914d5d79d48f5441e96d4a18265bc9d9540107d63a23f",
+    "assets/company-media/0-image.jpg": "0043f4c6007c4ec3faf0a6a6c3b5baa1d742fdbb6d1c06d355f3c5f404e3d128"
+  }
+}

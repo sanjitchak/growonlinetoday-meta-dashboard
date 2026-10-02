@@ -1,0 +1,23 @@
+{
+  "agency_or_saas": "The Super 30",
+  "category": "SEO and digital marketing agency",
+  "keyword": "marketing agency free strategy call",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1816182603046038",
+  "landing_page_url": "https://www.thesuper30.ai/digital-marketing-agency-bangalore",
+  "funnel_type": "Free brand-audit application",
+  "company": "The Super 30",
+  "libraryId": "1816182603046038",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "9f0443a0bce04f06e497000d8c1eca1e63e90d8bb97681a98d08024bbefcf2d8",
+    "assets/company-media/0-video.mp4": "fc6dea6347545726be66afb6546d032bea1d1ca0e36c06adc8ab8ca1aec74383",
+    "assets/company-media/accountImage.jpg": "9f0443a0bce04f06e497000d8c1eca1e63e90d8bb97681a98d08024bbefcf2d8",
+    "assets/company-media/profileImage.jpg": "9f0443a0bce04f06e497000d8c1eca1e63e90d8bb97681a98d08024bbefcf2d8",
+    "assets/company-media/0-image.jpg": "af267f4c2135c3733530bee125f5d3030e739ce224ed44c18033015e87d19925"
+  }
+}

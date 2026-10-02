@@ -1,0 +1,22 @@
+{
+  "agency_or_saas": "Rolling Authors",
+  "category": "Content and ghostwriting agency",
+  "keyword": "ghostwriting for founders",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1028359349742381",
+  "landing_page_url": "https://www.rollingauthors.com/",
+  "funnel_type": "Ghostwriting project inquiry form",
+  "company": "Rolling Authors",
+  "libraryId": "1028359349742381",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "42adb879778b1f6a68e63d4eea1207946dbc9e376dc3deebb2dee083c7d60e75",
+    "assets/company-media/accountImage.jpg": "42adb879778b1f6a68e63d4eea1207946dbc9e376dc3deebb2dee083c7d60e75",
+    "assets/company-media/profileImage.jpg": "42adb879778b1f6a68e63d4eea1207946dbc9e376dc3deebb2dee083c7d60e75",
+    "assets/company-media/0-image.jpg": "f465beea928a07d8cd7e5230f8aa94261eea8d107f1c8e69fd02e46b1fdfc01f"
+  }
+}

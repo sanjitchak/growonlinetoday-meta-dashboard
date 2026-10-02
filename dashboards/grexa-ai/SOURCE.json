@@ -1,0 +1,23 @@
+{
+  "agency_or_saas": "Grexa AI",
+  "category": "Subscription SaaS",
+  "keyword": "SEO agency book a free call",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1692814925282836",
+  "landing_page_url": "https://grexa.ai/book-free-demo",
+  "funnel_type": "Free-demo qualification form",
+  "company": "Grexa AI",
+  "libraryId": "1692814925282836",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "53fbb549dbf5d03c72f29ac2ed435d0faa27f64d0f6dc01f905e94847edce544",
+    "assets/company-media/0-video.mp4": "a1b75c59dbd5d05eed798233f18724ad4421cbab37db47843069db698d863a2d",
+    "assets/company-media/accountImage.jpg": "53fbb549dbf5d03c72f29ac2ed435d0faa27f64d0f6dc01f905e94847edce544",
+    "assets/company-media/profileImage.jpg": "53fbb549dbf5d03c72f29ac2ed435d0faa27f64d0f6dc01f905e94847edce544",
+    "assets/company-media/0-image.jpg": "4b60e6709d5ad821ffd1256e34f111902b6200e5bce1e5a06aa8607dee4d6ff8"
+  }
+}

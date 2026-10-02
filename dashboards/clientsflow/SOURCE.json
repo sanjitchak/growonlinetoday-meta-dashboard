@@ -1,0 +1,23 @@
+{
+  "agency_or_saas": "Marketing Mohan / ClientsFlow",
+  "category": "Outbound and client acquisition agency",
+  "keyword": "branding agency consultation",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1490153192985183",
+  "landing_page_url": "https://agency.clientsflow.in/",
+  "funnel_type": "Free consultation-call funnel",
+  "company": "Marketing Mohan / ClientsFlow",
+  "libraryId": "1490153192985183",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "0fe0f6145c1452b653b282bc76fb583514977ac71b19ada332081486cff0ea24",
+    "assets/company-media/0-video.mp4": "2f61d0935fddd9da1cf3192fc881c35fb21d68d32dca24fde2313d279853fbe5",
+    "assets/company-media/accountImage.jpg": "0fe0f6145c1452b653b282bc76fb583514977ac71b19ada332081486cff0ea24",
+    "assets/company-media/profileImage.jpg": "0fe0f6145c1452b653b282bc76fb583514977ac71b19ada332081486cff0ea24",
+    "assets/company-media/0-image.jpg": "c77bd4f7c42554948e10553913ef8577eb9c3b1a44dee70986f05a0cae601bc6"
+  }
+}

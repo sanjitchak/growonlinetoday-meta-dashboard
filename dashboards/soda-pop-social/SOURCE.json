@@ -1,0 +1,23 @@
+{
+  "agency_or_saas": "Soda Pop Social (advertiser: Arjun Mitra)",
+  "category": "Social media agency",
+  "keyword": "marketing agency free strategy call",
+  "ad_link": "https://www.facebook.com/ads/library/?id=1001581796156119",
+  "landing_page_url": "https://sodapopsocial.com/",
+  "funnel_type": "Discovery-call CTA",
+  "company": "Soda Pop Social",
+  "libraryId": "1001581796156119",
+  "observedDate": "2026-10-02",
+  "available": true,
+  "note": "",
+  "performance": "Synthetic example only",
+  "identities": "Synthetic account, business, campaign, ad-set and ad IDs; libraryId is the real public source identifier",
+  "destinationSource": "User-supplied CSV; not a newly built landing page",
+  "media": {
+    "assets/company-media/0-pageAvatar.jpg": "6f50444454b09727175bf2ce48cec285f85a13e4d6f679ced3c0da4ab702e085",
+    "assets/company-media/0-video.mp4": "5fc9941066890d5c0b3da7103fe783d96ffa5d86d739864b32d28bd6cb1b4e11",
+    "assets/company-media/accountImage.jpg": "6f50444454b09727175bf2ce48cec285f85a13e4d6f679ced3c0da4ab702e085",
+    "assets/company-media/profileImage.jpg": "6f50444454b09727175bf2ce48cec285f85a13e4d6f679ced3c0da4ab702e085",
+    "assets/company-media/0-image.jpg": "fb634cadcd62add54e47af07b222064786340c9448438d29682551a1ed150fdd"
+  }
+}
