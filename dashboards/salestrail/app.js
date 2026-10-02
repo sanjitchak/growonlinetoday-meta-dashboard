@@ -747,8 +747,7 @@ function enforceLastMonth(now=new Date()){
 const renderBeforeLockedPeriod=render;
 render=function(){
  const locked=enforceLastMonth();renderBeforeLockedPeriod();
- if(locked){const dateButton=$('#date-button');dateButton.setAttribute('aria-disabled','true');dateButton.title='Locked to the previous calendar month. Performance is illustrative sample data.';
- const notice=$('#notice');notice.hidden=false;notice.textContent='Sample performance — not actual company results. '+(window.CREATIVE_DATA?.length?'Public Ads Library creative and copy. ':'Source ad unavailable; no creative or copy supplied. ')+'Last month only; sample figures repeat when the month changes.';}
+ if(locked){const dateButton=$('#date-button');dateButton.setAttribute('aria-disabled','true');dateButton.title='Locked to the previous calendar month.';}
 };
 if(company.reportingMode==='last-month-demo'&&company.demoPerformance===true){render();window.addEventListener('focus',()=>render());}
 const formatBeforeDefaultResultLabels=format;
